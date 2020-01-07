@@ -1,0 +1,11 @@
+/home/cesar/projects/net/DemoProject/src/Console/DesignPattern/bin/Debug/netcoreapp2.1/DesignPattern.deps.json
+/home/cesar/projects/net/DemoProject/src/Console/DesignPattern/bin/Debug/netcoreapp2.1/DesignPattern.runtimeconfig.json
+/home/cesar/projects/net/DemoProject/src/Console/DesignPattern/bin/Debug/netcoreapp2.1/DesignPattern.runtimeconfig.dev.json
+/home/cesar/projects/net/DemoProject/src/Console/DesignPattern/bin/Debug/netcoreapp2.1/DesignPattern.dll
+/home/cesar/projects/net/DemoProject/src/Console/DesignPattern/bin/Debug/netcoreapp2.1/DesignPattern.pdb
+/home/cesar/projects/net/DemoProject/src/Console/DesignPattern/obj/Debug/netcoreapp2.1/DesignPattern.csprojAssemblyReference.cache
+/home/cesar/projects/net/DemoProject/src/Console/DesignPattern/obj/Debug/netcoreapp2.1/DesignPattern.csproj.CoreCompileInputs.cache
+/home/cesar/projects/net/DemoProject/src/Console/DesignPattern/obj/Debug/netcoreapp2.1/DesignPattern.AssemblyInfoInputs.cache
+/home/cesar/projects/net/DemoProject/src/Console/DesignPattern/obj/Debug/netcoreapp2.1/DesignPattern.AssemblyInfo.cs
+/home/cesar/projects/net/DemoProject/src/Console/DesignPattern/obj/Debug/netcoreapp2.1/DesignPattern.dll
+/home/cesar/projects/net/DemoProject/src/Console/DesignPattern/obj/Debug/netcoreapp2.1/DesignPattern.pdb
