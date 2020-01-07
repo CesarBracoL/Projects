@@ -22,6 +22,9 @@ namespace DesignPattern
             Console.WriteLine("\t\t\t" +b.addState + b.AddBehavior());
 
 
+            Console.WriteLine("Proxy Pattern:");
+            Console.WriteLine("==============");
+
         }
 
         static void Display(string s, IComponent c)
